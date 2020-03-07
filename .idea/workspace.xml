@@ -1,17 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="597160a3-6a55-4e9d-90b6-0d97d8c18ff5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yof6uqH5UM85OLHVWmx2Uqc7hn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="597160a3-6a55-4e9d-90b6-0d97d8c18ff5" name="Default Changelist" comment="" />
+      <created>1583613695693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583613695693</updated>
+      <workItem from="1583613700215" duration="239000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1583613782442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583613782442</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="54" key="CommitChangelistDialog2" timestamp="1583613772728">
+    <state x="303" y="54" key="CommitChangelistDialog2" timestamp="1583613782150">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="54" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583613772728" />
+    <state x="303" y="54" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583613782150" />
+    <state x="585" y="350" key="Github.ShareDialog" timestamp="1583613812941">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="585" y="350" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1583613812941" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1583613984306">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583613984306" />
   </component>
 </project>
