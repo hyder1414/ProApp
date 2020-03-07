@@ -1,5 +1,5 @@
-	from tkinter import *
+from tkinter import *
 root = Tk()
-root.title("SSRapp")
+root.title("ProApp")
 
 root.mainloop()
